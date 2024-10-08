@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FB88 Clan - Wild Rift</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="FB88 Clan Logo">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#members">Clan Members</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Welcome to FB88 Clan - Wild Rift!</h1>
+      <p>Join the ultimate Wild Rift community where teamwork, strategy, and passion drive us to victory!</p>
+      <a href="#join" class="cta-button">Join Us Today!</a>
+    </div>
+  </section>
+
+  <!-- About Us Section -->
+  <section id="about">
+    <h2>About Us</h2>
+    <p>FB88 Clan is dedicated to bringing together players who share the same passion for Wild Rift. We believe in teamwork, training, and community spirit to rise to the top in every battle.</p>
+    <h3>Our Mission:</h3>
+    <p>To dominate the Wild Rift tournaments and create a welcoming community for both casual players and competitive gamers. Build skills, friendships, and achieve greatness.</p>
+  </section>
+
+  <!-- Clan Members Section -->
+  <section id="members">
+    <h2>Meet Our Members</h2>
+    <div class="members-grid">
+      <!-- Example of a member -->
+      <div class="member">
+        <img src="member1.jpg" alt="Member Name">
+        <h4>Player Name</h4>
+        <p>Rank: Platinum</p>
+      </div>
+      <!-- Repeat the above div for more members -->
+    </div>
+  </section>
+
+  <!-- Events Section -->
+  <section id="events">
+    <h2>Upcoming Clan Events</h2>
+    <ul>
+      <li><strong>Wild Rift Tournament</strong> - October 15, 2024</li>
+      <li><strong>Training Session</strong> - October 8, 2024</li>
+      <li><a href="#join" class="cta-button">Join Our Next Event!</a></li>
+    </ul>
+  </section>
+
+  <!-- News Section -->
+  <section id="news">
+    <h2>FB88 Clan News</h2>
+    <ul>
+      <li><strong>FB88 Clan Dominates the Monthly Wild Rift Tournament!</strong></li>
+      <li><strong>New Clan Rules and Events Announced</strong></li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="social-media">
+        <a href="#">Facebook</a>
+        <a href="#">Instagram</a>
+        <a href="#">Discord</a>
+      </div>
+      <div class="footer-links">
+        <a href="#about">About Us</a> | <a href="#events">Events</a> | <a href="#contact">Contact</a>
+      </div>
+      <p>&copy; 2024 FB88 Clan. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
